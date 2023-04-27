@@ -1,2 +1,2 @@
 # RM_ros
-ROS homework
+ROS learning
